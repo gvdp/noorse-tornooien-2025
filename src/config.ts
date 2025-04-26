@@ -15,4 +15,11 @@ U10: {sheetID: "11tHgTKRxcbkVVrKn9pg4llGFCoN58P2q8y28vdWcWsU", name: "Jongens U1
 U11: {sheetID: "1mfJvhhUk9rMEyTI8ZXuYudc83CplbejTLvnQGxPqN2Q", name: "Jongens U11"},
 U12: {sheetID: "1wgE5oMr7YJ5pVXJTtlpViisqFrEMmrETb-uakKvTMwo", name: "Jongens U12"},
 U13: {sheetID: "1ZUtDgW52yUr4wqTfUgqI6Qg3c9_iok0W4FYpQOHRfys", name: "Jongens U13"},
+  U9M: {sheetID: "10rorAw1ddPwE9wBAMciwiuEdtwcabVHTK_nSP0ZTr98", name: "Meisjes U9"},
+    U11M: {sheetID: "1ajHF8g7DqmShou1f5bfdbtvoTk8vwQxosD5Cqd7VYKg", name: "Meisjes U11"},
+
+    U13M: {sheetID: "1zMxN7APZQBr8nLzYTL1hY-wLemu2dolZWfyO5E23mew", name: "Meisjes U13"},
+
+    U16M: {sheetID: "1LUQex2u0P2XdSAqRokE_eHcyArYqVcfiL9_wFjEBMlM", name: "Meisjes U16"},
+
 }
