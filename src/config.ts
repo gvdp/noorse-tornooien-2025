@@ -21,5 +21,6 @@ U13: {sheetID: "1ZUtDgW52yUr4wqTfUgqI6Qg3c9_iok0W4FYpQOHRfys", name: "Jongens U1
     U13M: {sheetID: "1zMxN7APZQBr8nLzYTL1hY-wLemu2dolZWfyO5E23mew", name: "Meisjes U13"},
 
     U16M: {sheetID: "1LUQex2u0P2XdSAqRokE_eHcyArYqVcfiL9_wFjEBMlM", name: "Meisjes U16"},
+    6V6: {sheetID: "16qL1Fbd23cxcChsCj42IBdart8Mco1G62Q5mcCZMA10", name: "6 tegen 6"},
 
 }
